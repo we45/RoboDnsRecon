@@ -19,4 +19,4 @@ Robot Framework Library for DNS-Recon
 * domain : Target domain.
 * dns (optional): DNS to be used. Default = 8.8.8.8
 * enumeration type (optional): Type of enumeration to perform. Default = std
-* sub domain wordlist (optional): Dile of sub-domain and hostnames to use for brute force. Default = None
+* sub domain wordlist (optional): File with sub-domain and hostnames to use for brute force. Default = None
